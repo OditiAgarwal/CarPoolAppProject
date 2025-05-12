@@ -1,7 +1,8 @@
-#NCU RideShare App
-An AI-powered, eco-friendly ride-sharing app tailored for NCU students. It enables users to book or offer rides with real-time matching, verified profiles, and a safety-first experience.
+# NCU RideShare App
 
-🧩 Project Overview
+### An AI-powered, eco-friendly ride-sharing app tailored for NCU students. It enables users to book or offer rides with real-time matching, verified profiles, and a safety-first experience.
+
+#### 🧩 Project Overview
 AI-driven ride-sharing platform built for NCU students
 
 Developed using Flutter (frontend) and Node.js + WebSocket (backend)
@@ -9,8 +10,7 @@ Developed using Flutter (frontend) and Node.js + WebSocket (backend)
 Focused on safety, eco-friendliness, and real-time user matching
 
 Supports features like OTP login, same-gender carpooling, and recurring rides
-
-🖥️ Frontend – Flutter
+#### 🖥️ Frontend – Flutter
 Built with Flutter for Android platform
 
 Clean and modern UI/UX inspired by Uber
@@ -19,7 +19,7 @@ Location access, route mapping, and real-time ride updates
 
 Themes aligned with eco-friendly and safety-first design principles
 
-⚙️ Backend – Node.js
+#### ⚙️ Backend – Node.js
 Handles OTP-based login via WebSocket
 
 Stores user profile data securely
@@ -79,11 +79,9 @@ Ends ride → Sees summary and eco stats
 🚀 How to Run This Project Locally
 ---
 📦 Prerequisites
-Flutter SDK
-
-Android Studio
-
-Git
+* Flutter SDK
+* Android Studio
+* Git
 
 ## How to Use 
 
@@ -116,7 +114,7 @@ or watch command in order to keep the source code synced automatically:
 ```
 flutter packages pub run build_runner watch
 ```
-🧠 Tech Stack
+### 🧠 Tech Stack
 ---
 Frontend: Flutter (Dart)
 
@@ -128,7 +126,7 @@ AI/ML: For ride auto-matching (in progress)
 
 Maps: Google Maps API (integration in progress)
 
-👨‍💻 Developed By
+### 👨‍💻 Developed By
 ---
 * 22CSU125 ODITI AGARWAL
 * 22CSU105 LATIKA MUKHI
