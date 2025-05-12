@@ -9,7 +9,7 @@ Developed using Flutter (frontend) and Node.js + WebSocket (backend)
 Focused on safety, eco-friendliness, and real-time user matching
 
 Supports features like OTP login, same-gender carpooling, and recurring rides
----
+
 🖥️ Frontend – Flutter
 Built with Flutter for Android platform
 
@@ -27,8 +27,9 @@ Stores user profile data securely
 Designed for real-time communication and future AI/ML enhancements
 
 Supports ride request, match, and confirmation features
----
+
 📱 App Screens & Flow
+---
 Splash & Onboarding – Intro to app values and usage
 
 Login & OTP Verification – Secure sign-in using phone number
@@ -60,6 +61,7 @@ Eco Stats Page – See carbon savings
 Help & ChatGPT Page – FAQs and AI support
 
 🔁 App Flow Summary
+---
 User opens the app → Sees onboarding
 
 Enters mobile number → Verifies via OTP
@@ -75,6 +77,7 @@ Confirms ride → Shown in Ongoing Ride
 Ends ride → Sees summary and eco stats
 
 🚀 How to Run This Project Locally
+---
 📦 Prerequisites
 Flutter SDK
 
