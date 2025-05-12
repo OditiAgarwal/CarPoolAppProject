@@ -1,0 +1,54 @@
+name: ncurideshareapp
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  lottie: ^2.7.0
+  http: 1.3.0
+  shared_preferences: ^2.2.2
+  google_fonts: ^6.1.0
+  google_maps_flutter: ^2.5.0  # <-- Add this line
+  image_picker: ^1.0.4
+  device_info_plus: ^10.0.1
+  web_socket_channel: ^2.4.0
+  carousel_slider: ^4.2.1
+  video_player: ^2.7.0
+  flick_video_player: ^0.9.0
+  location: ^5.0.0
+  permission_handler: ^11.0.0
+
+  share_plus: ^7.2.1
+
+
+  intl: ^0.18.1
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/animations/carpool_green.json
+    - assets/images/
+#    - assets/images/eco_ride2.jpg
+#    - assets/images/eco_ride3.jpg
+#    - assets/images/ncu_logo.png
+#    - assets/images/ride_taker.jpg
+#    - assets/images/ride_giver.jpg
+#    - assets/images/city_car.png
+#    - assets/images/onboard1.png
+#    - assets/images/onboard2.png
+#    - assets/images/onboard3.png
