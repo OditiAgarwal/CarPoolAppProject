@@ -1,4 +1,4 @@
-#🚘 NCU RideShare App
+#NCU RideShare App
 An AI-powered, eco-friendly ride-sharing app tailored for NCU students. It enables users to book or offer rides with real-time matching, verified profiles, and a safety-first experience.
 
 🧩 Project Overview
@@ -92,7 +92,7 @@ Git
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+git clone https://github.com/your-username/ncu-rideshare-app.git
 ```
 
 **Step 2:**
