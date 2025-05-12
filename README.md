@@ -85,32 +85,39 @@ Android Studio
 
 Git
 
-🛠 Steps to Run
-Clone or download the repository
+## How to Use 
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/ncu-rideshare-app.git
-Or download ZIP and extract it.
+**Step 1:**
 
-Open the project in Android Studio.
+Download or clone this repo by using the link below:
 
-Get dependencies
+```
+https://github.com/zubairehman/flutter-boilerplate-project.git
+```
 
-bash
-Copy
-Edit
-flutter pub get
-Connect an emulator or device.
+**Step 2:**
 
-Run the app
+Go to project root and execute the following command in console to get the required dependencies: 
 
-bash
-Copy
-Edit
-flutter run
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+This project uses `inject` library that works with code generation, execute the following command to generate files:
+
+```
+flutter packages pub run build_runner build --delete-conflicting-outputs
+```
+
+or watch command in order to keep the source code synced automatically:
+
+```
+flutter packages pub run build_runner watch
+```
 🧠 Tech Stack
+---
 Frontend: Flutter (Dart)
 
 Backend: Node.js + WebSocket
@@ -122,4 +129,7 @@ AI/ML: For ride auto-matching (in progress)
 Maps: Google Maps API (integration in progress)
 
 👨‍💻 Developed By
-[Your Name] – Full-Stack Flutter Developer | AI/ML Enthusiast
+---
+* 22CSU125 ODITI AGARWAL
+* 22CSU105 LATIKA MUKHI
+* 22CSU106 LEANA 
