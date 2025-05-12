@@ -10,11 +10,6 @@ Developed using Flutter (frontend) and Node.js + WebSocket (backend)
 Focused on safety, eco-friendliness, and real-time user matching
 
 Supports features like OTP login, same-gender carpooling, and recurring rides
-### 👨‍💻 Developed By
----
-* 22CSU125 ODITI AGARWAL
-* 22CSU105 LATIKA MUKHI
-* 22CSU106 LEANA 
 
 #### 🖥️ Frontend – Flutter
 Built with Flutter for Android platform
@@ -131,4 +126,9 @@ Database: MongoDB (planned)
 AI/ML: For ride auto-matching (in progress)
 
 Maps: Google Maps API (integration in progress)
+### 👨‍💻 Developed By
+---
+* 22CSU125 ODITI AGARWAL
+* 22CSU105 LATIKA MUKHI
+* 22CSU106 LEANA 
 
