@@ -90,7 +90,7 @@ Ends ride → Sees summary and eco stats
 Download or clone this repo by using the link below:
 
 ```
-git clone https://github.com/your-username/ncu-rideshare-app.git
+https://github.com/OditiAgarwal/CarPoolAppProject.git
 ```
 
 **Step 2:**
