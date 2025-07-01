@@ -126,9 +126,4 @@ Database: MongoDB (planned)
 AI/ML: For ride auto-matching (in progress)
 
 Maps: Google Maps API (integration in progress)
-### 👨‍💻 Developed By
----
-* 22CSU125 ODITI AGARWAL
-* 22CSU105 LATIKA MUKHI
-* 22CSU106 LEANA 
 
